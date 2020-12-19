@@ -1,0 +1,2 @@
+rootProject.name='ZuoYe'
+include ':app'
