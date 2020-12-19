@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_65"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <TextView
+            android:text="每周佳作"
+            android:textSize="18dp"
+            android:layout_width="@dimen/dp_76"
+            android:layout_height="@dimen/dp_21"
+            android:layout_marginLeft="@dimen/dp_18"/>
+       
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcy_pubu"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_500"/>
+
+</LinearLayout>

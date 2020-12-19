@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_91"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_76"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="@dimen/dp_76"
+            android:layout_height="@dimen/dp_76"
+            android:background="@color/colorAccent"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_76"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginLeft="@dimen/dp_9"
+                android:text="写给秋天的诗"
+                android:layout_marginTop="@dimen/dp_5"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_16"/>
+            <TextView
+                android:layout_marginLeft="@dimen/dp_9"
+                android:text="秋风细雨，说一声，你好！一天的诗。从..."
+                android:layout_marginTop="@dimen/dp_10"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_12"/>
+            <LinearLayout
+                android:layout_marginLeft="@dimen/dp_9"
+                android:layout_marginTop="@dimen/dp_18"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_11">
+                <TextView
+                    android:text="作者：墨梅"
+                    android:layout_width="@dimen/dp_64"
+                    android:layout_height="@dimen/dp_11"/>
+                <TextView
+                    android:text="8人已读"
+                    android:layout_marginLeft="@dimen/dp_145"
+                    android:layout_width="@dimen/dp_49"
+                    android:layout_height="@dimen/dp_11"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
