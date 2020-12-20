@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="@dimen/dp_58"
+    android:layout_height="@dimen/dp_78"
+    android:layout_marginLeft="@dimen/dp_15"
+    android:layout_marginTop="@dimen/dp_15">
+    <ImageView
+        android:id="@+id/iv_rcy3_tou"
+        android:layout_width="@dimen/dp_58"
+        android:layout_height="@dimen/dp_58"/>
+    <TextView
+        android:id="@+id/tv_rcy3_name"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="花花娘子"
+        android:textSize="30px"
+        android:layout_width="@dimen/dp_58"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>

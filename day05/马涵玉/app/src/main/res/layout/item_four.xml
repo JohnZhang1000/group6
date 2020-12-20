@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:layout_marginLeft="@dimen/x32"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y77">
+
+        <TextView
+            android:layout_width="@dimen/x161"
+            android:layout_height="@dimen/y45"
+            android:layout_marginTop="@dimen/y31"
+            android:text="诗歌群PK"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="@dimen/x238"
+            android:layout_height="@dimen/y30"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="@dimen/y34"
+            android:text="08-01日晚8:00开始" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="@dimen/x680"
+        android:layout_height="@dimen/y363"
+        android:layout_marginTop="@dimen/y33"
+        android:src="@drawable/b" />
+
+    <LinearLayout
+        android:layout_width="@dimen/x680"
+        android:layout_height="@dimen/y80"
+        android:layout_marginTop="@dimen/y20"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_b"
+            android:layout_width="@dimen/x150"
+            android:layout_height="@dimen/y60"
+            android:background="@drawable/btn_selector"
+            android:text="丁香社团"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/btn_a"
+            android:layout_width="@dimen/x150"
+            android:layout_height="@dimen/y60"
+            android:layout_marginLeft="@dimen/x267"
+            android:background="@drawable/btn_selector"
+            android:text="月季社团"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="@dimen/x680"
+        android:layout_height="@dimen/y70"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:text="这两个社团你更看好谁" />
+
+
+</LinearLayout>

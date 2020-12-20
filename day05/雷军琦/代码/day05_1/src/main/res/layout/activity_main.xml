@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/dp_374"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/rl_rl1"
+        android:layout_width="@dimen/dp_374"
+        android:layout_height="@dimen/dp_45"
+        android:layout_marginBottom="@dimen/dp_13">
+
+        <SearchView
+            android:id="@+id/sv_sou"
+            android:layout_width="@dimen/dp_266"
+            android:layout_height="@dimen/dp_39"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dp_17"
+            android:iconifiedByDefault="false"
+            android:queryHint="搜索内容" />
+
+        <ImageView
+            android:id="@+id/iv_lin"
+            android:layout_width="@dimen/dp_25"
+            android:layout_height="@dimen/dp_25"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dp_12"
+            android:layout_toRightOf="@id/sv_sou"
+            android:src="@mipmap/address1x" />
+
+        <ImageView
+            android:id="@+id/iv_qian"
+            android:layout_width="@dimen/dp_25"
+            android:layout_height="@dimen/dp_25"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dp_12"
+            android:layout_toRightOf="@id/iv_lin"
+            android:src="@mipmap/theorder1x" />
+    </RelativeLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv"
+        android:layout_width="@dimen/dp_374"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tl"
+        android:layout_width="@dimen/dp_374"
+        android:layout_height="@dimen/dp_54">
+        <com.google.android.material.tabs.TabItem
+            android:icon="@mipmap/home1x"
+            android:text="首页"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_54"/>
+        <com.google.android.material.tabs.TabItem
+            android:icon="@mipmap/address1x"
+            android:text="首页"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_54"/>
+        <com.google.android.material.tabs.TabItem
+            android:icon="@mipmap/chex1"
+            android:text="首页"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_54"/>
+        <com.google.android.material.tabs.TabItem
+            android:icon="@mipmap/theorder1x"
+            android:text="首页"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_54"/>
+
+    </com.google.android.material.tabs.TabLayout>
+</LinearLayout>

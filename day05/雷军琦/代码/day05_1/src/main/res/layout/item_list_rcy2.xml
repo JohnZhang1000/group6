@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="@dimen/dp_374"
+    android:layout_height="@dimen/dp_290">
+    <TextView
+        android:layout_marginRight="@dimen/dp_17"
+        android:id="@+id/tv_biao"
+        android:text="诗歌群PK"
+        android:textSize="@dimen/dp_17"
+        android:layout_marginLeft="@dimen/dp_17"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_21"
+        android:layout_marginBottom="@dimen/dp_16"/>
+    <TextView
+        android:layout_marginRight="@dimen/dp_17"
+        android:layout_alignParentRight="true"
+        android:text="08-01日晚8:00开始"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:layout_below="@id/tv_biao"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/iv_img"
+        android:src="@drawable/icc"
+        android:scaleType="fitXY"
+        android:layout_width="@dimen/dp_340"
+        android:layout_height="@dimen/dp_135"/>
+    <ImageView
+        android:id="@+id/iv_yuan_a"
+        android:layout_below="@id/tv_biao"
+        android:layout_marginLeft="@dimen/dp_72"
+        android:src="@drawable/yuan"
+        android:layout_width="@dimen/dp_45"
+        android:layout_height="@dimen/dp_45"/>
+    <ImageView
+        android:id="@+id/yuan_b"
+        android:layout_below="@id/tv_biao"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/dp_72"
+        android:src="@drawable/yuan"
+        android:layout_width="@dimen/dp_45"
+        android:layout_height="@dimen/dp_45"/>
+    <Button
+        android:text="已预约"
+        android:layout_marginTop="@dimen/dp_176"
+        android:layout_centerHorizontal="true"
+        android:layout_width="@dimen/dp_68"
+        android:layout_height="@dimen/dp_30"/>
+    <Button
+        android:text="丁香诗社"
+        android:textColor="#fff"
+        android:background="@drawable/buttn_a"
+        android:layout_marginLeft="@dimen/dp_44"
+        android:layout_above="@id/tv_biao1"
+        android:layout_width="@dimen/dp_76"
+        android:layout_height="@dimen/dp_30" />
+    <Button
+        android:text="月季诗社"
+        android:textColor="#fff"
+        android:background="@drawable/buttn_b"
+        android:layout_marginRight="@dimen/dp_44"
+        android:layout_above="@id/tv_biao1"
+        android:layout_alignParentRight="true"
+        android:layout_width="@dimen/dp_76"
+        android:layout_height="@dimen/dp_30" />
+    <TextView
+        android:id="@+id/tv_biao1"
+
+        android:text="这两诗社你更看好谁"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/dp_16"
+        android:layout_marginTop="@dimen/dp_12"
+        android:textSize="30px"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_14"/>
+
+</RelativeLayout>
