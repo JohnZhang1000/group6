@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dp_374"
+    android:layout_height="@dimen/dp_85"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tl_rcy1"
+        android:layout_width="@dimen/dp_374"
+        android:layout_height="@dimen/dp_85"
+        app:tabIndicatorHeight="0dp">
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/ti_item1"
+            android:icon="@mipmap/gao2x"
+             android:text="每日推荐"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_85"/>
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/ti_item2"
+            android:icon="@mipmap/gao2x"
+             android:text="飞花令"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_85"/>
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/ti_item3"
+            android:icon="@mipmap/gao2x"
+             android:text="诗歌社群"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_85"/>
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/ti_item4"
+            android:icon="@mipmap/gao2x"
+             android:text="排行榜"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_85"/>
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/ti_item5"
+            android:icon="@mipmap/gao2x"
+             android:text="会员专区"
+            android:layout_width="@dimen/dp_93_5"
+            android:layout_height="@dimen/dp_85"/>
+
+    </com.google.android.material.tabs.TabLayout>
+</LinearLayout>
