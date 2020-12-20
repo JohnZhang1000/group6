@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2afda8cf-0814-4b4c-8102-8ad4153aeae5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/select.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shopa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/aaa.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/bbb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ccc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ddd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/fh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/hy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ph.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/sg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/tj.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="emulator-5554" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="224" column="7" lean-forward="true" selection-start-line="224" selection-start-column="7" selection-end-line="224" selection-end-column="7" />
+              <folding>
+                <element signature="e#669#682#0" expanded="true" />
+                <element signature="e#717#729#0" expanded="true" />
+                <element signature="e#768#780#0" expanded="true" />
+                <element signature="e#818#830#0" expanded="true" />
+                <element signature="e#1127#1141#0" expanded="true" />
+                <element signature="e#1176#1190#0" expanded="true" />
+                <element signature="e#1229#1243#0" expanded="true" />
+                <element signature="e#1281#1295#0" expanded="true" />
+                <element signature="e#1506#1520#0" expanded="true" />
+                <element signature="e#1555#1569#0" expanded="true" />
+                <element signature="e#1608#1622#0" expanded="true" />
+                <element signature="e#1660#1674#0" expanded="true" />
+                <element signature="e#1916#1931#0" expanded="true" />
+                <element signature="e#1966#1981#0" expanded="true" />
+                <element signature="e#2019#2033#0" expanded="true" />
+                <element signature="e#2342#2357#0" expanded="true" />
+                <element signature="e#2392#2406#0" expanded="true" />
+                <element signature="e#2444#2458#0" expanded="true" />
+                <element signature="e#2783#2797#0" expanded="true" />
+                <element signature="e#2989#3003#0" expanded="true" />
+                <element signature="e#3195#3209#0" expanded="true" />
+                <element signature="e#3401#3415#0" expanded="true" />
+                <element signature="e#3607#3621#0" expanded="true" />
+                <element signature="e#3823#3838#0" expanded="true" />
+                <element signature="e#3873#3887#0" expanded="true" />
+                <element signature="e#3926#3940#0" expanded="true" />
+                <element signature="e#3978#3992#0" expanded="true" />
+                <element signature="e#4441#4455#0" expanded="true" />
+                <element signature="e#4688#4702#0" expanded="true" />
+                <element signature="e#4936#4950#0" expanded="true" />
+                <element signature="e#5183#5197#0" expanded="true" />
+                <element signature="e#5431#5445#0" expanded="true" />
+                <element signature="e#5560#5574#0" expanded="true" />
+                <element signature="e#5609#5623#0" expanded="true" />
+                <element signature="e#5662#5676#0" expanded="true" />
+                <element signature="e#5714#5728#0" expanded="true" />
+                <element signature="e#5791#5805#0" expanded="true" />
+                <element signature="e#6013#6028#0" expanded="true" />
+                <element signature="e#6063#6077#0" expanded="true" />
+                <element signature="e#6116#6131#0" expanded="true" />
+                <element signature="e#6169#6183#0" expanded="true" />
+                <element signature="e#6433#6448#0" expanded="true" />
+                <element signature="e#6483#6498#0" expanded="true" />
+                <element signature="e#6536#6550#0" expanded="true" />
+                <element signature="e#6849#6863#0" expanded="true" />
+                <element signature="e#6898#6912#0" expanded="true" />
+                <element signature="e#6951#6965#0" expanded="true" />
+                <element signature="e#7003#7016#0" expanded="true" />
+                <element signature="e#7264#7278#0" expanded="true" />
+                <element signature="e#7313#7327#0" expanded="true" />
+                <element signature="e#7366#7381#0" expanded="true" />
+                <element signature="e#7419#7432#0" expanded="true" />
+                <element signature="e#7722#7737#0" expanded="true" />
+                <element signature="e#7772#7786#0" expanded="true" />
+                <element signature="e#7824#7838#0" expanded="true" />
+                <element signature="e#8225#8239#0" expanded="true" />
+                <element signature="e#8277#8291#0" expanded="true" />
+                <element signature="e#8447#8462#0" expanded="true" />
+                <element signature="e#8497#8511#0" expanded="true" />
+                <element signature="e#8550#8564#0" expanded="true" />
+                <element signature="e#8602#8616#0" expanded="true" />
+                <element signature="e#8678#8692#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/screenMatchDP.bat" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/search_shap.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1545" />
+    <option name="height" value="935" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="mipmap-mdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values-2560x1440" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="emulator-5554" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-20T15:02:18.735Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="C:/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rainly\Desktop\homework\sx\group6\day05\WangChuJie\code\app\src\main\res\mipmap-mdpi" />
+      <recent name="C:\Users\rainly\Desktop\homework\sx\group6\day05\WangChuJie\code\app\src\main\res\drawable" />
+      <recent name="C:\Users\rainly\Desktop\homework\sx\group6\day05\WangChuJie\code\app\src\main\res\layout" />
+      <recent name="C:\Users\rainly\Desktop\homework\sx\group6\day05\WangChuJie\code\app\src\main\res\values" />
+      <recent name="C:\Users\rainly\Desktop\homework\sx\group6\day05\WangChuJie\code\app\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2afda8cf-0814-4b4c-8102-8ad4153aeae5" name="Default Changelist" comment="" />
+      <created>1608374382635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608374382635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20978552" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Android Profiler" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.23371105" />
+      <window_info anchor="bottom" id="Logcat" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" visible="true" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/build.gradle</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/code/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/screenMatchDP.bat" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-2560x1440/dimens_x.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/search_shap.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/select.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="224" column="7" lean-forward="true" selection-start-line="224" selection-start-column="7" selection-end-line="224" selection-end-column="7" />
+          <folding>
+            <element signature="e#669#682#0" expanded="true" />
+            <element signature="e#717#729#0" expanded="true" />
+            <element signature="e#768#780#0" expanded="true" />
+            <element signature="e#818#830#0" expanded="true" />
+            <element signature="e#1127#1141#0" expanded="true" />
+            <element signature="e#1176#1190#0" expanded="true" />
+            <element signature="e#1229#1243#0" expanded="true" />
+            <element signature="e#1281#1295#0" expanded="true" />
+            <element signature="e#1506#1520#0" expanded="true" />
+            <element signature="e#1555#1569#0" expanded="true" />
+            <element signature="e#1608#1622#0" expanded="true" />
+            <element signature="e#1660#1674#0" expanded="true" />
+            <element signature="e#1916#1931#0" expanded="true" />
+            <element signature="e#1966#1981#0" expanded="true" />
+            <element signature="e#2019#2033#0" expanded="true" />
+            <element signature="e#2342#2357#0" expanded="true" />
+            <element signature="e#2392#2406#0" expanded="true" />
+            <element signature="e#2444#2458#0" expanded="true" />
+            <element signature="e#2783#2797#0" expanded="true" />
+            <element signature="e#2989#3003#0" expanded="true" />
+            <element signature="e#3195#3209#0" expanded="true" />
+            <element signature="e#3401#3415#0" expanded="true" />
+            <element signature="e#3607#3621#0" expanded="true" />
+            <element signature="e#3823#3838#0" expanded="true" />
+            <element signature="e#3873#3887#0" expanded="true" />
+            <element signature="e#3926#3940#0" expanded="true" />
+            <element signature="e#3978#3992#0" expanded="true" />
+            <element signature="e#4441#4455#0" expanded="true" />
+            <element signature="e#4688#4702#0" expanded="true" />
+            <element signature="e#4936#4950#0" expanded="true" />
+            <element signature="e#5183#5197#0" expanded="true" />
+            <element signature="e#5431#5445#0" expanded="true" />
+            <element signature="e#5560#5574#0" expanded="true" />
+            <element signature="e#5609#5623#0" expanded="true" />
+            <element signature="e#5662#5676#0" expanded="true" />
+            <element signature="e#5714#5728#0" expanded="true" />
+            <element signature="e#5791#5805#0" expanded="true" />
+            <element signature="e#6013#6028#0" expanded="true" />
+            <element signature="e#6063#6077#0" expanded="true" />
+            <element signature="e#6116#6131#0" expanded="true" />
+            <element signature="e#6169#6183#0" expanded="true" />
+            <element signature="e#6433#6448#0" expanded="true" />
+            <element signature="e#6483#6498#0" expanded="true" />
+            <element signature="e#6536#6550#0" expanded="true" />
+            <element signature="e#6849#6863#0" expanded="true" />
+            <element signature="e#6898#6912#0" expanded="true" />
+            <element signature="e#6951#6965#0" expanded="true" />
+            <element signature="e#7003#7016#0" expanded="true" />
+            <element signature="e#7264#7278#0" expanded="true" />
+            <element signature="e#7313#7327#0" expanded="true" />
+            <element signature="e#7366#7381#0" expanded="true" />
+            <element signature="e#7419#7432#0" expanded="true" />
+            <element signature="e#7722#7737#0" expanded="true" />
+            <element signature="e#7772#7786#0" expanded="true" />
+            <element signature="e#7824#7838#0" expanded="true" />
+            <element signature="e#8225#8239#0" expanded="true" />
+            <element signature="e#8277#8291#0" expanded="true" />
+            <element signature="e#8447#8462#0" expanded="true" />
+            <element signature="e#8497#8511#0" expanded="true" />
+            <element signature="e#8550#8564#0" expanded="true" />
+            <element signature="e#8602#8616#0" expanded="true" />
+            <element signature="e#8678#8692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+  </component>
+</project>
