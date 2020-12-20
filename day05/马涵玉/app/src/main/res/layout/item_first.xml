@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/x37"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:id="@+id/ll"
+        android:orientation="horizontal"
+        android:layout_width="@dimen/x680"
+        android:layout_height="@dimen/y80">
+        <androidx.appcompat.widget.SearchView
+            app:iconifiedByDefault="false"
+            android:background="@drawable/serch_selector"
+            app:queryHint="搜索诗人名字 歌词关键词"
+            android:layout_width="@dimen/x530"
+            android:layout_height="@dimen/y80">
+        </androidx.appcompat.widget.SearchView>
+
+        <ImageView
+            android:src="@drawable/ball"
+            android:layout_gravity="center"
+            android:layout_width="@dimen/x40"
+            android:layout_height="@dimen/x50"
+            android:layout_marginLeft="@dimen/x20" />
+
+        <ImageView
+            android:src="@drawable/ball"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_width="@dimen/x40"
+            android:layout_height="@dimen/x50"/>
+    </LinearLayout>
+</LinearLayout>
