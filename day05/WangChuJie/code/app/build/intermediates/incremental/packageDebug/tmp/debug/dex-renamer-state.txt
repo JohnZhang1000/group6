@@ -1,0 +1,4 @@
+#Sat Dec 19 20:04:36 GMT+08:00 2020
+base.0=C\:\\Users\\rainly\\Desktop\\homework\\sx\\group6\\day05\\WangChuJie\\code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

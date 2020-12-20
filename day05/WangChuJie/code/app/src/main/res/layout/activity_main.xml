@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#fff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/search"
+        android:background="@drawable/search_shap"
+        app:queryHint="搜索使人名字 诗歌关键字"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="@dimen/x35"
+        android:layout_marginTop="@dimen/x16"
+        android:layout_width="@dimen/x527"
+        android:layout_height="@dimen/x75"/>
+    
+    <ImageView
+        android:id="@+id/img1"
+        android:src="@drawable/icon_tab_find"
+        android:layout_width="@dimen/x36"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="@dimen/x26"
+        android:layout_marginLeft="@dimen/x34"
+        android:layout_height="@dimen/x56"
+        app:layout_constraintLeft_toRightOf="@+id/search"/>
+    <ImageView
+        android:src="@drawable/icon_tab_home"
+        android:layout_width="@dimen/x36"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="@dimen/x26"
+        android:layout_marginLeft="@dimen/x32"
+        android:layout_height="@dimen/x56"
+        app:layout_constraintLeft_toRightOf="@+id/img1"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
