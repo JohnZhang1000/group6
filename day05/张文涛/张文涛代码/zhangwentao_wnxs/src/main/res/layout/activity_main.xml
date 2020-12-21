@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="@dimen/x12"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/home_sear"
+        android:layout_marginTop="@dimen/x20"
+        android:layout_marginLeft="@dimen/x38"
+        android:layout_width="@dimen/x262"
+        app:queryHint="搜索诗歌关键字/诗人名字"
+        android:layout_height="@dimen/y38"/>
+    <androidx.recyclerview.widget.RecyclerView
+
+        android:layout_below="@+id/home_sear"
+        android:layout_marginTop="@dimen/x14"
+        android:id="@+id/home_rcy"
+        android:layout_width="@dimen/x348"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
