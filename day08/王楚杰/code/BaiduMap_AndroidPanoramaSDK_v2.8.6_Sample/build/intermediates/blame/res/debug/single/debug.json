@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable_baidupano_shape_phototxt_bg.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable/baidupano_shape_phototxt_bg.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_baidupano_photo_default.9.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/baidupano_photo_default.9.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_baidupano_indoor_exit.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/baidupano_indoor_exit.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable_button_style.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable/button_style.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_button_on.9.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/button_on.9.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable_baidupano_shape_photocase_selc.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable/baidupano_shape_photocase_selc.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_baidupano_floortab_arrow.9.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/baidupano_floortab_arrow.9.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable_baidupano_shape_photocase.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable/baidupano_shape_photocase.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/layout_panodemo_coordinate.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/layout/panodemo_coordinate.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_icon_markb.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/icon_markb.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/layout_baidupano_photoalbum_container.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/layout/baidupano_photoalbum_container.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/layout_baidupano_singlephoto_layout.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/layout/baidupano_singlephoto_layout.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/layout_panodemo_main.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/layout/panodemo_main.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_baidupano_floortab_line.9.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/baidupano_floortab_line.9.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_button_down.9.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/button_down.9.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/layout_panodemo.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/layout/panodemo.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/layout_panodemo_list_item.xml.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/layout/panodemo_list_item.xml"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_icon_marka.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/icon_marka.png"
+    },
+    {
+        "merged": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/drawable-xhdpi_street_arrow.png.flat",
+        "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/drawable-xhdpi/street_arrow.png"
+    }
+]
