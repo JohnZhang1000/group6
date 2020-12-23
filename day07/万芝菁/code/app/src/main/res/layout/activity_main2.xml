@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="@dimen/dp_375"
+        android:layout_height="@dimen/dp_64">
+        <TextView
+            android:text="购物车"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="52.5dp"
+            android:layout_height="17dp" />
+    </LinearLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+    </androidx.viewpager.widget.ViewPager>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="@dimen/dp_375"
+        android:layout_height="@dimen/dp_61">
+        <TextView
+            android:text="已选(1)"
+            android:layout_width="@dimen/dp_39"
+            android:layout_height="@dimen/dp_11" />
+        <TextView
+            android:text="总计：559"
+            android:layout_width="@dimen/dp_80"
+            android:layout_height="@dimen/dp_16" />
+        <Button
+            android:layout_width="@dimen/dp_175"
+            android:text="结算"
+            android:background="@drawable/select"
+            android:layout_height="@dimen/dp_45" />
+    </LinearLayout>
+
+   <com.google.android.material.tabs.TabLayout
+       android:id="@+id/tab"
+       android:gravity="center"
+       android:layout_width="@dimen/dp_375"
+       android:layout_height="@dimen/dp_55">
+
+
+   </com.google.android.material.tabs.TabLayout>
+    
+</LinearLayout>
