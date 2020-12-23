@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">day08_01</string>
+    <string name="main_bu1">卫星图</string>
+    <string name="main_bu2">普通图</string>
+    <string name="main_bu3">热力图</string>
+    <string name="main_bu4">交通图</string>
+</resources>
