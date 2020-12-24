@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "16,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "936,1227",
+                        "endLines": "22,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "1222,1382"
+                    }
+                },
+                {
+                    "source": "/Users/daju/androidGit/baidu/mapclient/pano-android-openapi/BaiduMap_AndroidPanoramaSDK_v2.8.6_Sample/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,16,8,9,14,10,15,6,12,11,13,7,5,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,875,349,415,763,480,821,224,614,550,680,285,168,114",
+                        "endColumns": "53,77,64,63,56,68,52,59,64,62,81,62,54,52",
+                        "endOffsets": "108,948,409,474,815,544,869,279,674,608,757,343,218,162"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,187,252,316,373,442,495,555,620,683,765,828,883",
+                        "endColumns": "53,77,64,63,56,68,52,59,64,62,81,62,54,52",
+                        "endOffsets": "104,182,247,311,368,437,490,550,615,678,760,823,878,931"
+                    }
+                }
+            ]
+        }
+    ]
+}
