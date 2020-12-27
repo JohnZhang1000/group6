@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="北京"
+            android:textSize="20dp" />
+
+        <SearchView
+            android:id="@+id/main_sv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:queryHint="搜索用餐地点" />
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/main_img"
+        android:layout_below="@id/ll"
+        android:src="@drawable/lll"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"/>
+    <Button
+        android:id="@+id/bt_ditu"
+        android:background="@drawable/back"
+        android:text="地图找店/查看路线 >"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:layout_width="220dp"
+        android:layout_height="50dp"/>
+    <ListView
+        android:background="@color/white"
+        android:layout_below="@id/main_img"
+        android:id="@+id/sug_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
