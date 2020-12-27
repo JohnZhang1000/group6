@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">day1227_zonghe</string>
+    <string name="title_markercluster_desc">\t\t缩小地图，以显示标注物的聚合点 \n
+    \t\t放大地图，显示Marker点 \n</string>
+    <string name="title_activity_marker_cluster_demo">点聚合功能</string>
+</resources>
