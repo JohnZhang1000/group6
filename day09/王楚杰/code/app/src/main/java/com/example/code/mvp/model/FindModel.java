@@ -2,6 +2,9 @@ package com.example.code.mvp.model;
 
 import com.example.code.bean.HotBean;
 import com.example.code.callback.RxObserverCallBack;
+import com.google.gson.Gson;
+
+import java.io.IOException;
 
 import io.reactivex.Observer;
 import io.reactivex.android.schedulers.AndroidSchedulers;
@@ -24,7 +27,13 @@ public class FindModel {
 
                     @Override
                     public void onNext(ResponseBody value) {
-                        callBack.onSuccessData(value);
+                        try {
+                            String string = value.string();
+                            HotBean hotBean = new Gson().fromJson(string, HotBean.class);
+                            callBack.onSuccessData(hotBean);
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
                     }
 
                     @Override

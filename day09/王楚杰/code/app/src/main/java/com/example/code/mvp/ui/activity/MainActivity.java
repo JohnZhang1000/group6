@@ -3,7 +3,6 @@ package com.example.code.mvp.ui.activity;
 import android.os.Handler;
 import android.view.KeyEvent;
 import android.view.View;
-import android.widget.TextView;
 import android.widget.Toast;
 
 
@@ -11,9 +10,9 @@ import androidx.fragment.app.Fragment;
 import androidx.viewpager.widget.ViewPager;
 
 import com.example.code.R;
-import com.example.code.base.App;
-import com.example.code.base.BaseActivity;
-import com.example.code.base.BasePresenter;
+import com.example.mylibrary.base.App;
+import com.example.mylibrary.base.BaseActivity;
+import com.example.mylibrary.base.BasePresenter;
 import com.example.code.engine.adapter.VpFragmentAdapter;
 import com.example.code.manager.ContainManager;
 import com.example.code.mvp.ui.fragment.AddFragment;

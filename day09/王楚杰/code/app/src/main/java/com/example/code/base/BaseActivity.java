@@ -1,10 +1,9 @@
 package com.example.code.base;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.net.ConnectivityManager;
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.code.manager.ContainManager;
 
@@ -39,7 +38,6 @@ public abstract class BaseActivity<P extends BasePresenter, T> extends AppCompat
     }
 
     protected abstract P createPresenter();
-
 
     //获取P层对象
     protected  P getmPresenter(){

@@ -1,6 +1,6 @@
 package com.example.code.mvp.ui.fragment;
 
-import android.view.View;
+import android.util.Log;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -12,8 +12,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewpager.widget.ViewPager;
 
 import com.example.code.R;
-import com.example.code.base.BaseFragment;
-import com.example.code.base.BasePresenter;
+import com.example.mylibrary.base.BaseFragment;
+import com.example.mylibrary.base.BasePresenter;
 import com.example.code.bean.HotBean;
 import com.example.code.bean.TabBean;
 import com.example.code.engine.adapter.FindAdapter;
@@ -46,6 +46,7 @@ public class FindFragment extends BaseFragment {
         return new FindPresenter(this);
     }
 
+
     @Override
     protected void init() {
         mNest.setFillViewport(true);
@@ -57,6 +58,9 @@ public class FindFragment extends BaseFragment {
         mAdapter = new FindAdapter(getContext(), hotBeans);
         mRec.setAdapter(mAdapter);
     }
+
+
+
 
     @Override
     protected int getLayoutId() {
@@ -91,7 +95,18 @@ public class FindFragment extends BaseFragment {
         });
     }
 
+    @Override
+    public void onSuccess(Object o) {
+        super.onSuccess(o);
 
+        HotBean hotBean = (HotBean) o;
+        hotBeans.addAll(hotBean.getData());
+        mAdapter.notifyDataSetChanged();
+    }
 
-
+    @Override
+    public void onFail(String msg) {
+        super.onFail(msg);
+        Log.d(TAG, "onFail: "+msg);
+    }
 }

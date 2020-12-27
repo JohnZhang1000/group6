@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.content.SharedPreferences;
 
 
-import com.example.code.base.App;
+import com.example.mylibrary.base.App;
 
 import java.util.HashMap;
 import java.util.HashSet;

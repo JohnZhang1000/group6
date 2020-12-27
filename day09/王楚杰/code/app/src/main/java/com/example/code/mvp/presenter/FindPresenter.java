@@ -1,6 +1,6 @@
 package com.example.code.mvp.presenter;
 
-import com.example.code.base.BasePresenter;
+import com.example.mylibrary.base.BasePresenter;
 import com.example.code.bean.HotBean;
 import com.example.code.callback.RxObserverCallBack;
 import com.example.code.mvp.model.FindModel;

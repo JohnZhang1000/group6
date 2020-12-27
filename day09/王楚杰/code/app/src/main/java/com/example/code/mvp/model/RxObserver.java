@@ -4,7 +4,7 @@ import android.util.Log;
 
 
 import com.example.code.R;
-import com.example.code.base.App;
+import com.example.mylibrary.base.App;
 import com.example.code.callback.RxObserverCallBack;
 import com.google.gson.JsonParseException;
 

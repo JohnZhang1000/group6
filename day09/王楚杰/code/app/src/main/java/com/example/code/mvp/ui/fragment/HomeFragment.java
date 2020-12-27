@@ -1,14 +1,10 @@
 package com.example.code.mvp.ui.fragment;
 
-import android.widget.TextView;
-
 
 import com.example.code.R;
-import com.example.code.base.BaseFragment;
-import com.example.code.base.BasePresenter;
+import com.example.mylibrary.base.BaseFragment;
+import com.example.mylibrary.base.BasePresenter;
 import com.example.code.mvp.presenter.HomePresenter;
-
-import butterknife.BindView;
 
 public class HomeFragment extends BaseFragment {
 

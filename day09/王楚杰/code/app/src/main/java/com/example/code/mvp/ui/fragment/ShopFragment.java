@@ -1,18 +1,9 @@
 package com.example.code.mvp.ui.fragment;
 
 
-import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
-
 import com.example.code.R;
-import com.example.code.base.BaseFragment;
-import com.example.code.base.BasePresenter;
+import com.example.mylibrary.base.BaseFragment;
+import com.example.mylibrary.base.BasePresenter;
 
 public class ShopFragment extends BaseFragment {
 

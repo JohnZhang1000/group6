@@ -1,7 +1,7 @@
 package com.example.code.manager;
 
 
-import com.example.code.base.BaseThreadPool;
+import com.example.mylibrary.base.BaseThreadPool;
 import com.example.code.thread.CustomThreadPool;
 import com.example.code.thread.SchduleThreadPool;
 import com.example.code.thread.SingleThreadPool;

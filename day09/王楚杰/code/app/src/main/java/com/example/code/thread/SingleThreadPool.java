@@ -1,7 +1,7 @@
 package com.example.code.thread;
 
 
-import com.example.code.base.BaseThreadPool;
+import com.example.mylibrary.base.BaseThreadPool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
