@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dp_375"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/dp_36"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_marginBottom="@dimen/dp_16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="@dimen/dp_70"
+            android:layout_height="@dimen/dp_18"
+            android:layout_marginLeft="@dimen/dp_17"
+            android:text="国内攻略" />
+        <TextView
+            android:layout_marginLeft="@dimen/dp_212"
+            android:textColor="#2196F3"
+            android:text="查看更多"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcy4_rv"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_130"/>
+</LinearLayout>
