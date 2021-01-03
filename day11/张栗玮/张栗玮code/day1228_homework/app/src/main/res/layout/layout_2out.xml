@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_56"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+        <TextView
+            android:layout_width="@dimen/dp_71"
+            android:layout_height="@dimen/dp_19"
+            android:layout_marginLeft="@dimen/dp_16"
+            android:text="出行必备"
+            android:textColor="#000000"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_68">
+        <ImageView
+            android:layout_width="@dimen/dp_167"
+            android:layout_height="@dimen/dp_68"
+            android:layout_marginLeft="@dimen/dp_16"
+            android:background="@drawable/a2"
+            />
+        <ImageView
+            android:layout_width="@dimen/dp_167"
+            android:layout_height="@dimen/dp_68"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:background="@drawable/a3"/>
+    </LinearLayout>
+
+</LinearLayout>
