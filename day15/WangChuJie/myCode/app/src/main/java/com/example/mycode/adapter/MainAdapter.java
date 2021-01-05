@@ -36,8 +36,8 @@ public class MainAdapter extends RecyclerView.Adapter<ViewHolder> {
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
         ViewHolder0 holder0 = (ViewHolder0) holder;
         Glide.with(context).load(topicBeans.get(position).getImageUrl()).into(holder0.imageUrl);
-        holder0.name.setText(topicBeans.get(position).getName());
-        holder0.attentionNum.setText("#"+topicBeans.get(position).getAttentionNum()+"#");
+        holder0.name.setText("#"+topicBeans.get(position).getName()+"#");
+        holder0.attentionNum.setText(topicBeans.get(position).getAttentionNum());
     }
 
     @Override
